@@ -1,7 +1,14 @@
 body{
-    background-color:#E8F3D6;
-}
+    background-color:#fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size:1.5rem;
 
+}
+h1{
+    font-family:'Open Sans';
+    font-size: 2rem;
+    color: #000;
+}
 
 .icon{
     width:20%;
@@ -24,3 +31,15 @@ body{
     margin-bottom: 5%;
     padding:2%;
 }
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.social-media{
+    margin: 15px 10px;
+}
+/* a:hover{
+background-color: aqua;
+color:#fff;
+font-size: 2rem;
+} */
